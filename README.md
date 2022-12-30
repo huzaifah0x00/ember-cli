@@ -1,6 +1,8 @@
 ember-cli
 ==============================================================================
 
+# The fork is meant to see if I can implement intercept the live reload and handle it in webpack HMR.
+
 [![Latest npm release][npm-badge]][npm-badge-url]
 [![GitHub Actions CI][github-actions-badge]][github-actions-ci-url]
 [![Test Coverage][coveralls-badge]][coveralls-badge-url]
